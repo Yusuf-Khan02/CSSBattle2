@@ -1,0 +1,46 @@
+*{
+    font-family: "Montserrat", serif;
+        font-optical-sizing: auto;
+        font-weight: <weight>;
+        font-style: normal;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#search{
+    border-radius: 4rem;
+}
+.searchbar{
+    border-radius: 3rem;
+}
+.title{
+    color: red;
+}
+.para{
+    color: grey;
+}
+.heroes{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.captain{
+    background-color: rgba(14, 14, 217, 0.87);
+    border-radius: 1.5rem;
+    color: aliceblue;
+    height: 35rem;
+}
+.iron{
+    background-color: orange;
+    border-radius: 1.5rem;
+    color: aliceblue;
+    height: 35rem;
+}
+.spider{
+    background-color: red;
+    border-radius: 1.5rem;
+    color: aliceblue;
+    height: 35rem;
+}
